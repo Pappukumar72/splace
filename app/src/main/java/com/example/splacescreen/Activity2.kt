@@ -21,6 +21,7 @@ class Activity2 : AppCompatActivity() {
             finish()
         },3000)
         //startapp();
+        //startapp();
     }
 
 //    private fun startapp() {
